@@ -6,7 +6,7 @@
 
 ## Project setup
 ```
-yarn install
+yarn
 ```
 
 ## iOS setup
@@ -16,6 +16,11 @@ pod install
 
 ### Compiles and hot-reloads for development
 ```
-yarn start
+npx react-native run-ios
+```
+
+### Test
+```
+yarn test
 ```
 
