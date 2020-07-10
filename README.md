@@ -14,7 +14,7 @@ yarn
 pod install
 ```
 
-### Compiles and hot-reloads for development
+### Fast refresh for development
 ```
 npx react-native run-ios
 ```
